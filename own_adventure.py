@@ -21,8 +21,7 @@ with open("own_adventure.json") as f:
 CLIENT_ID = secrets["clientId"]
 CLIENT_SECRET = secrets["secret"]
 ASTRA_DB_KEYSPACE="default_keyspace"
-OPENAI_API_KEY="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"
-# OPENAI_API_KEY="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"
+OPENAI_API_KEY=secrets["openai_api_key"]
 
 auth_provider = PlainTextAuthProvider (CLIENT_ID, CLIENT_SECRET)
 cluster = Cluster(cloud=cloud_config, auth_provider=auth_provider)

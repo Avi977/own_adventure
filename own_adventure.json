@@ -7,5 +7,6 @@
     "ad0566b5-2a67-49de-89e8-92258c2f2c98"
   ],
   "generatedOn": "2024-01-21T18:36:30.899641656Z",
-  "__typename": "GenerateToken"
+  "__typename": "GenerateToken",
+  "openai_api_key":"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"
 }
