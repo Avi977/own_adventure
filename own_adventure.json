@@ -1,0 +1,12 @@
+{
+    "clientId": "acifphUOKoPCMpZGSXBlqTdl",
+    "secret": "esupmGR1cemF1xaPCgGoHryBySRgu5c42Q5CZZ8,C5R-CSSq9QKAICmhDSySjFvl8OyrBDJQcqn+iwSBdmglCZu1q5vITlHvKiMhn2RYHhXXMdOMtDxN0XYLZDxBHtsK",
+    "token": "AstraCS:acifphUOKoPCMpZGSXBlqTdl:c77237e176aa6136f6cd5262e61fa862b177c5bdbacd71d23eb6fcdc55460f14",
+    "orgId": "4724194e-c65d-4d0f-b0ab-04ebb9519284",
+    "roles": [
+      "ad0566b5-2a67-49de-89e8-92258c2f2c98"
+    ],
+    "generatedOn": "2024-01-21T18:36:30.899641656Z",
+    "__typename": "GenerateToken",
+    "openai_api_key":"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"
+  }
