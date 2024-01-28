@@ -22,7 +22,7 @@ CLIENT_ID = secrets["clientId"]
 CLIENT_SECRET = secrets["secret"]
 ASTRA_DB_KEYSPACE="default_keyspace"
 OPENAI_API_KEY=secrets["openai_api_key"]
-# OPENAI_API_KEY="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"
+
 
 
 auth_provider = PlainTextAuthProvider (CLIENT_ID, CLIENT_SECRET)
