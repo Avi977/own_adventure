@@ -21,7 +21,7 @@ with open("own_adventure.json") as f:
 CLIENT_ID = secrets["clientId"]
 CLIENT_SECRET = secrets["secret"]
 ASTRA_DB_KEYSPACE="default_keyspace"
-OPENAI_API_KEY=secrets["openai_api_key"]
+OPENAI_API_KEY=secrets["openai_api_key"] #put in your openai api key and test instead of "secrets["openai_api_key"]"
 
 
 
